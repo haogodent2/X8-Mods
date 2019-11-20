@@ -1,7 +1,7 @@
 Description:
-This repository contains 3D print and laser cut files used for modding a Skywalker X8 for aerial photogrametry. 
+This repository contains 3D print and laser cut files for modding a Skywalker X8 for aerial photogrammetry. 
 
-For additional questions or requests send me an email. 
+Send me an email for additional questions and/or requests. 
 
 Hao
 haogodent2ATgmail.com
